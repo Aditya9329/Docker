@@ -14,4 +14,16 @@ It is a built form of docker-file and it is sharable.
 # docker-container
 docker running image called as container.
 # Monolith vs Micro-Service architecture
-Monolith :- 
+Monolith :- Tightly coupled(to much dependency)
+- Not so good at fault tolerance.
+- Difficult to scale.
+- Less modularity.
+- Less complexity.
+- Can be built at lower cost.
+Micro-services:
+- Lossly coupled(less dependency)
+- Good at fault-tolerance.
+- Easy to scale.
+- High modularity.
+- High complexity.
+- High cost.
