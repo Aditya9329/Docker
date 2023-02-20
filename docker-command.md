@@ -1,5 +1,10 @@
 # docker-commands
 cmd: to list down docker images available
-`docker image ls`
+```bash 
+docker image ls```
 cmd: to get list of containers
-`docker ps -a`
+```bash 
+docker ps -a```
+cmd: to delete the containers
+```bash
+docker rm container_id```
