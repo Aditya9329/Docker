@@ -20,7 +20,7 @@ Monolith :- Tightly coupled(to much dependency)
 - Less modularity.
 - Less complexity.
 - Can be built at lower cost.
-Micro-services:
+Micro-services:-
 - Lossly coupled(less dependency)
 - Good at fault-tolerance.
 - Easy to scale.
