@@ -13,3 +13,5 @@ The file having all the code, configuration,etc. that file is called as docker f
 It is a built form of docker-file and it is sharable.
 # docker-container
 docker running image called as container.
+# Monolith vs Micro-Service architecture
+Monolith :- 
