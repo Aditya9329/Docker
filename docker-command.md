@@ -1,6 +1,4 @@
 # docker-commands
 to list down docker images available
 
-```bash
-docker image ls
-```
+`docker image ls`
