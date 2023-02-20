@@ -11,3 +11,12 @@ cmd: to delete the containers
 ```bash
 docker rm container_id
 ```
+
+cmd: to delete all the container
+```bash
+docker rm $(docker ps -a -q)
+```
+cmd: to delete the image id
+```bash
+docker rmi image_id
+```
