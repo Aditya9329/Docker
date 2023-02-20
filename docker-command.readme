@@ -1,3 +1,3 @@
 
 to list down docker images available
-`docker image las`
+- `docker image ls`
