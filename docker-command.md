@@ -20,3 +20,15 @@ cmd: to delete the image id
 ```bash
 docker rmi image_id
 ```
+cmd: to get allthe running containers
+```bash
+docker ps
+```
+cmd: to stop the running container
+```bash
+docker stop container_id
+```
+cmd: to run the docker-image
+```bash
+docker run image_name or image_id
+```
