@@ -3,7 +3,7 @@ cmd: to list down docker images available
 ```bash 
 docker image ls
 ```
-cmd: to get list of containers
+cmd: to get list of containers that are aviable without any state
 ```bash 
 docker ps -a
 ```
